@@ -1,40 +1,40 @@
 .video{
-  position:absolute;
-  text-align:center;
-  width:100%;
-  height:100%;
-  z-index:-4;
-
-}
-#songInp{
-position:strict;
-z-index:1;
-}
-.click{
-position:strict;
-z-index:1;
-background-color:black;
-color:white;
-}
-.title{
-  font-family: "Merriweather";
-  font-size: 25px;
-  font-weight:bold;
-}
-body{
-  text-align:center;
-  background:url("https://cdn.britannica.com/90/202690-131-1D29B008/colorful-winter-sunset.jpg");
-  background-repeat: no-repeat;
-  background-size:cover;
-  color: rgb(11, 37, 11);
-}
+    position:absolute;
+    text-align:center;
+    width:100%;
+    height:100%;
+    z-index:-4;
   
-
-.Boxman{
-  display: inline-block;
-  width: 300px;
-  margin: 30px;
-  padding: 25px;
-  border-radius: 10%;
-  background-color:white;
-}
+  }
+  #songInp{
+  position:strict;
+  z-index:1;
+  }
+  .click{
+  position:strict;
+  z-index:1;
+  background-color:black;
+  color:white;
+  }
+  .title{
+    font-family: "Merriweather";
+    font-size: 25px;
+    font-weight:bold;
+  }
+  body{
+    text-align:center;
+    background:url("https://cdn.britannica.com/90/202690-131-1D29B008/colorful-winter-sunset.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgb(11, 37, 11);
+  }
+    
+  
+  .Boxman{
+    display: inline-block;
+    width: 300px;
+    margin: 30px;
+    padding: 25px;
+    border-radius: 10%;
+    background-color:white;
+  }
